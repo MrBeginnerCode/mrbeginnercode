@@ -17,7 +17,7 @@ Passionate about Artificial Intelligence, Data Science and Full-stack Developmen
 - 🎓 First-year Computer Science student at **Ho Chi Minh City University of Technology (HCMUT)**
 - 🤖 Interested in AI, Machine Learning and Optimization
 - 💻 Learning Full-stack Development
-- 📚 Currently studying Python, FastAPI, React and Data Science
+- 📚 Currently studying Python, React and Data Science
 - 🌱 Goal: Become an AI Engineer
 
 ---
@@ -63,7 +63,6 @@ Passionate about Artificial Intelligence, Data Science and Full-stack Developmen
 ## 📌 Featured Projects
 
 - 🚦 Smart Traffic
-- 🚚 Vehicle Routing Problem with Time Windows
 - 💰 TrustZ
 - 🌐 AI Website Generator
 
@@ -71,8 +70,8 @@ Passionate about Artificial Intelligence, Data Science and Full-stack Developmen
 
 ## 📫 Connect with me
 
-- Email: your_email@gmail.com
-- LinkedIn: Coming Soon
+- Email: hoang.huynh0109@hcmut.edu.vn
+- LinkedIn: https://www.linkedin.com/in/cien0109/
 
 ---
 
